@@ -17,5 +17,4 @@ def find_palindrome_products
   palindromes
 end
 
-palindromes = find_palindrome_products
-puts palindromes.sort.pop
+puts find_palindrome_products.sort.pop
